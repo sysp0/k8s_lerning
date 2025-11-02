@@ -36,8 +36,8 @@
 
 **۲. راه‌اندازی Self-Managed Kubernetes** که در آن خودمان مسئول پیاده‌سازی، پیکربندی و نگهداری کامل کلاستر هستیم.
 ## منابع
-https://kubernetes.io/docs/tasks/tools/
-https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
-https://kind.sigs.k8s.io/docs/user/quick-start/
-https://kubernetes.io/docs/reference/kubectl/
-https://minikube.sigs.k8s.io/docs/start/
+- https://kubernetes.io/docs/tasks/tools/
+- https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+- https://kind.sigs.k8s.io/docs/user/quick-start/
+- https://kubernetes.io/docs/reference/kubectl/
+- https://minikube.sigs.k8s.io/docs/start/
