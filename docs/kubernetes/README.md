@@ -4,12 +4,12 @@
 توسعه دهنده مشخص میکند که ساختار اپ چی هستش و کوبرنتیز بر روی Node ها پیاده سازی میکند.
 
 همچنین برنامه نویس دقیقا مشخص میکند یک سری App ها باید کنار هم باشند و کوبرنتیز اون ها رو بروی یک Node پیاده سازی میکند و بقیه app هارو توی جاهای مختلف بر اساس نیاز کاربر قرار میدهد.
-![[docs/kubernetes/images/Kubernetes_deployment.png]]
+![Kubernetes deployment diagram](./images/Kubernetes_deployment.png)
 
 # ساختار کوبرنتیز
 همچنین Worker node ها همون Node هایی هستند که app ها بر روی آنها اجرا میشود.
 
-![[docs/kubernetes/images/kubernetes_structure.png]]
+![Kubernetes structure](./images/kubernetes_structure.png)
 
 ## بخش Control Plane
 کوبرنتیز یک master node دارد که به اون میگیم Control Panel که وظیفه مدیریت کل Node هارو بر عهده دارد.
@@ -71,7 +71,7 @@ Kubernetes API Server
 -  اپ ها بصورت داخلی هستند یا external یعنی از بیرون دسترسی دارند یا خیر
 
 
-![[docs/kubernetes/images/Kubernetes_arch.png]]
+![Kubernetes architecture](./images/Kubernetes_arch.png)
 
 
 نحو شناسایی بخش های پروژه کوبرنتیز:
